@@ -1,0 +1,16 @@
+.xterm {
+  background: var(--bolt-elements-background-depth-2) !important;
+  color: var(--bolt-elements-textPrimary) !important;
+}
+
+.xterm-viewport {
+  background: transparent !important;
+}
+
+.xterm-cursor {
+  background: var(--bolt-elements-textPrimary) !important;
+}
+
+.xterm-selection {
+  background: var(--bolt-elements-item-backgroundAccent) !important;
+}
