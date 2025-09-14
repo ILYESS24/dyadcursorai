@@ -2,6 +2,8 @@
 
 Une version web de Dyad, un constructeur d'applications IA open-source et gratuit, déployable sur Vercel.
 
+> **Note** : Ce projet a été converti d'Electron vers Next.js pour le déploiement web.
+
 ## 🚀 Fonctionnalités
 
 - **Construction d'applications avec IA** : Décrivez ce que vous voulez créer et Dyad le construira pour vous
